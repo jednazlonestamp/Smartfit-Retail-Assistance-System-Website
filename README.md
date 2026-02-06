@@ -2,7 +2,7 @@
 
 ## Project info
 
-**WEBSITE URL**: ***https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID***
+**WEBSITE URL**: ***https://smartfit-retail-assistance-system-w.vercel.app/***
  > See [Smartfit Retail Assistance Robotics System](https://github.com/LoneStamp/Smartfit-Retail-Assistance-System-Website) for more information.
 
 ## Requirements:
