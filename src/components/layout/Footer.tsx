@@ -51,7 +51,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-8 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          <p>© 2025 SmartFit Assistance Robotics. Built for lablab.ai Hackathon.</p>
+          <p>© {new Date().getFullYear()} SmartFit Assistance Robotics. Built for lablab.ai Hackathon.</p>
         </div>
       </div>
     </footer>
